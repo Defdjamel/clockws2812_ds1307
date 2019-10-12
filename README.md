@@ -6,6 +6,7 @@ je vous invite a venir regarder mon tuto sur youtube en français sur ce projet 
 
 ### Requis Logiciel
 * [Arduino IDE](https://www.arduino.cc) - arduino IDE
+* [code source du projet] ![Schema ](clock_pixel_ds1307.ino?raw=true) 
 * [librarie FastLEd]
 * [librarie ds1307]
 
