@@ -7,8 +7,8 @@ je vous invite a venir regarder mon tuto sur youtube en français sur ce projet 
 ### Requis Logiciel
 * [Arduino IDE](https://www.arduino.cc) - arduino IDE
 * [le code source du projet ](clock_pixel_ds1307.ino) - Le code
-* [librarie FastLEd]( à ajouter directement depuis Arduini IDE)
-* [librarie ds1307]( à ajouter directement depuis Arduini IDE)
+* [librarie FastLEd]( à ajouter directement depuis votre Arduino IDE)
+* [librarie ds1307]( à ajouter directement depuis votre Arduino IDE)
 
 ### Requis Hardware: Sur aliexpress !
 Arduino Nano (at328/AT328P) ->  http://bit.ly/2WKxqZE
