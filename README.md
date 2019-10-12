@@ -35,7 +35,7 @@ je vous invite a venir regarder mon tuto sur youtube en français sur ce projet 
 
 
 ## impression 3D
-impression en 3 partie: 
+impression en 3 parties: 
 
 [Case ](case.stl)
 
