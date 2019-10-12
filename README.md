@@ -1,7 +1,10 @@
 # Je fabrique une Horloge neopixel sur Arduino Nano avec module RTC DS1307
 
 je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://youtu.be/_guPh8ymMVE
-
+ 
+ ## Preview
+ 
+ ![preview](preview_youtube.jpg?raw=true "preview projet horloge neo pixel")
 
 
 ### Requis Logiciel
