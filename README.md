@@ -34,7 +34,11 @@ ici le schema des 37 leds en serie:
 je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://www.youtube.com/watch?v=_guPh8ymMVE&feature=youtu.be
 
 
-
+## impression 3D
+impression en 3 partie: 
+![Case ](case.stl?raw=true)
+![Cover ](cover.stl?raw=true)
+![Led cover ](led_cover.stl?raw=true)
 
 ## Contribution
 
