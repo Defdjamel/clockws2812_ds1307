@@ -36,9 +36,13 @@ je vous invite a venir regarder mon tuto sur youtube en français sur ce projet 
 
 ## impression 3D
 impression en 3 partie: 
+
 [Case ](case.stl)
+
 [Cover ](cover.stl)
+
 [Led cover ](led_cover.stl)
+
 
 ## Contribution
 
