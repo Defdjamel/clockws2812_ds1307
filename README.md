@@ -18,7 +18,7 @@ horloage DS1307 -> http://s.click.aliexpress.com/e/CftrcmKk
 
 ## cablage 
 ici le schema
-![Schema ](Plan cablage led.png?raw=true "Plan cablage led.png")
+![Schema ](Plan%20cablage%20led.png?raw=true "Plan cablage led.png")
 
 
 je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://www.youtube.com/watch?v=_guPh8ymMVE&feature=youtu.be
