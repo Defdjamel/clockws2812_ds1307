@@ -15,9 +15,13 @@ Bande led WS2812 -> http://s.click.aliexpress.com/e/l2zlBPvQ
 horloage DS1307 -> http://s.click.aliexpress.com/e/CftrcmKk
 
 
+## montage 
+Schema de montage simplifié du projet
+![Schema ](plan_simplifié.png?raw=true "plan_simplifié.png")
 
-## cablage 
-ici le schema
+
+## cablage  des leds
+ici le schema des 37 leds en serie:
 ![Schema ](Plan%20cablage%20led.png?raw=true "Plan cablage led.png")
 
 
