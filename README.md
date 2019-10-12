@@ -1,5 +1,7 @@
 # Je fabrique une Horloge neopixel sur Arduino Nano avec module RTC DS1307
 
+je vous invite a venir regarder mon tuto sur youtube en français sur ce projet : https://www.youtube.com/watch?v=_guPh8ymMVE&feature=youtu.be
+
 
 
 ### Requis Logiciel
@@ -10,9 +12,9 @@
 ### Requis Hardware: Sur aliexpress !
 Arduino Nano (at328/AT328P) ->  http://bit.ly/2WKxqZE
 
-Bande led WS2812 -> http://s.click.aliexpress.com/e/l2zlBPvQ
+Bande led WS2812 -> http://bit.ly/33rjrag
 
-horloage DS1307 -> http://s.click.aliexpress.com/e/CftrcmKk
+horloage DS1307 -> http://bit.ly/2MvRqY8
 
 
 ## montage 
