@@ -29,6 +29,7 @@ void setup() {
    FastLED.addLeds<WS2812, LED_PIN, GRB>(leds, NUM_LEDS);
    FastLED.setBrightness(  getBrightness() );
    startDisplay();
+    //setTime();
 
 }
 int colorIndex = 0;
@@ -45,7 +46,7 @@ void loop() {
 
    //looptest(); //only for test
    
- 
+
   
  FastLED.show();
  delay(200 );   
@@ -60,10 +61,11 @@ void updateTime(){
   Serial.print(currentHour, DEC);
   Serial.print(":");
   Serial.println(currentMinutes, DEC);
+   Serial.println(clock.second);
 }
 void setTime(){
   clock.fillByYMD(2019,9,30);//Jan 19,2013
-  clock.fillByHMS(20,44,30);//15:28 30"
+  clock.fillByHMS(0,0,00);//15:28 30"
   clock.fillDayOfWeek(MON);//Saturday
   clock.setTime();//write time to the RTC chip
 }
